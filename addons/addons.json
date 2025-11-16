@@ -1,0 +1,14 @@
+{
+  "site": "https://hideout-network.github.io/hideout-assets/addons",
+  "addons": [
+    {
+      "id": "autoclicker",
+      "name": "Auto Clicker",
+      "author": "Hideout",
+      "version": "1.0.0",
+      "description": "Auto-click anywhere on screen.",
+      "iconPath": "/autoclicker/icon.png",
+      "scriptUrl": "/autoclicker/script.js"
+    }
+  ]
+}
