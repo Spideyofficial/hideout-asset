@@ -1,0 +1,41 @@
+{
+  "site": "https://hideout-network.github.io/hideout-assets/themes",
+  "main-theme": "default",
+  "themes": [
+    {
+      "id": "default",
+      "name": "Default Dark",
+      "themePath": "/default.js"
+    },
+    {
+      "id": "halloween",
+      "name": "Halloween 2025",
+      "themePath": "/halloween.js"
+    },
+    {
+      "id": "forest",
+      "name": "Forest",
+      "themePath": "/forest.js"
+    },
+    {
+      "id": "ocean",
+      "name": "Ocean",
+      "themePath": "/ocean.js"
+    },
+    {
+      "id": "sunset",
+      "name": "Sunset",
+      "themePath": "/sunset.js"
+    },
+    {
+      "id": "midnight",
+      "name": "Midnight",
+      "themePath": "/midnight.js"
+    },
+    {
+      "id": "crimson",
+      "name": "Crimson",
+      "themePath": "/crimson.js"
+    }
+  ]
+}
