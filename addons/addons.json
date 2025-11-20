@@ -4,11 +4,20 @@
     {
       "id": "autoclicker",
       "name": "Auto Clicker",
-      "author": "Hideout",
+      "author": "Hideout Network",
       "version": "1.0.0",
       "description": "Auto-click anywhere on screen.",
       "iconPath": "/autoclicker/icon.png",
       "scriptUrl": "/autoclicker/script.js"
+    },
+    {
+      "id": "js executor",
+      "name": "JS Executor",
+      "author": "Hideout Network",
+      "version": "1.0.0",
+      "description": "Execute any scripts",
+      "iconPath": "/js executor/icon.png",
+      "scriptUrl": "/js executor/script.js"
     }
   ]
 }
