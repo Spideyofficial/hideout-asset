@@ -1,5 +1,5 @@
 {
-  "site": "https://hideout-network.github.io/hideout-assets/addons",
+  "site": "https://raw.githubusercontent.com/Hideout-Network/hideout-assets/refs/heads/main/addons",
   "addons": [
     {
       "id": "autoclicker",
