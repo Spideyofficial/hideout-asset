@@ -1,6 +1,6 @@
 {
   "site": "https://hideout-network.github.io/hideout-assets/themes",
-  "main-theme": "christmas",
+  "main-theme": "default",
   "themes": [
     {
       "id": "christmas",
