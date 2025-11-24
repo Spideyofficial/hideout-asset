@@ -3,7 +3,7 @@
   "presets": [
     {
       "id": "google",
-      "name": "Googler",
+      "name": "Google",
       "presetPath": "/google.json"
     }
   ]
