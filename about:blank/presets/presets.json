@@ -1,0 +1,10 @@
+{
+  "site": "https://hideout-network.github.io/hideout-assets/about:blank/presets",
+  "presets": [
+    {
+      "id": "google",
+      "name": "Googler",
+      "presetPath": "/google.json"
+    }
+  ]
+}
