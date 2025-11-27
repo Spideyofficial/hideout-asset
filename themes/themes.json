@@ -3,7 +3,7 @@
   "main-theme": "christmas2025",
   "themes": [
     {
-      "id": "christmas",
+      "id": "default",
       "name": "Default Dark",
       "themePath": "/default.js"
     },
